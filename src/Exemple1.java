@@ -35,6 +35,7 @@ public class Exemple1 {
 			System.out.println("Valeur de la variable de comptage i : " + i);
 		}
 		
+		
 
 	}
 }
